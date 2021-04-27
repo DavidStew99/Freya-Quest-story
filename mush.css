@@ -1,6 +1,6 @@
 body { background-image:url("images/brightmush.jpg"); height:700px; background-position:center; background-size:cover; }
 #wrapper {margin:auto; width:1024px;
- font-size:medium; color:black;} 
+ font-size:small; color:blue;} 
 header,nav,article,section,footer {display:block;} 
 header {margin-top:0; height:181px «; color:white;}
 h1 {position:absolute; top:45px; margin-left:30px; font-size:250%; color:white;

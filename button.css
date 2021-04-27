@@ -1,5 +1,5 @@
 body { background-image:url("images/frontcover.jpg"); height:100%; background-position:center; background-size: cover; }
-#wrapper {margin:auto; width:1024px;font-size:medium; color:yellow;} 
+#wrapper {margin:auto; width:1024px;font-size:medium; color:white;} 
 header,nav,article,section,footer {display:block;} 
 header {margin-top:0; height:181px «; color:red;}
 h1 {position:absolute; top:45px; margin-left:30px; font-size:250%; color:;
